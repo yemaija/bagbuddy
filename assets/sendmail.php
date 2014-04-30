@@ -10,7 +10,7 @@ function isEmail($email) {
 if($_POST) {
 
     // Enter the email where you want to receive the notification when someone subscribes
-    $emailTo = 'contact.azmind@gmail.com';
+    $emailTo = 'michelle.senn@gmx.ch';
 
     $subscriber_email = ($_POST['email']);
 
